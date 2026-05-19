@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TJvSwuBxbD)
 [![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CherryTreeTeam/FakepixelUtilities/releases/)
-[![Modrinth](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/3GxUau2M)
+[![Modrinth](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/fakepixelutilities/version/1.0.0)
 [![Website](https://img.shields.io/badge/WEBSITE-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cherryteam.page.gd)
 
 </div>
